@@ -1,0 +1,17 @@
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\bin\Debug\net8.0-windows\ScoreCalculator.exe
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\bin\Debug\net8.0-windows\ScoreCalculator.deps.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\bin\Debug\net8.0-windows\ScoreCalculator.runtimeconfig.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\bin\Debug\net8.0-windows\ScoreCalculator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\bin\Debug\net8.0-windows\ScoreCalculator.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.Form1.resources
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.csproj.GenerateResource.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.AssemblyInfo.cs
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.sourcelink.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\refint\ScoreCalculator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ScoreCalculator.genruntimeconfig.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-2-accumulate-test-score-data-shargisbkk\Lab2\ScoreCalculator\obj\Debug\net8.0-windows\ref\ScoreCalculator.dll

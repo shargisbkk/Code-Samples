@@ -1,0 +1,17 @@
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.exe
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.deps.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.runtimeconfig.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\bin\Debug\net8.0-windows\CalculateLetterGrade.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.AssemblyInfoInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.AssemblyInfo.cs
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.sourcelink.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\refint\CalculateLetterGrade.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.genruntimeconfig.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\ref\CalculateLetterGrade.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-1-design-a-simple-form-shargisbkk\Lab1\CalculateLetterGrade\obj\Debug\net8.0-windows\CalculateLetterGrade.frmCalculateGrade.resources
