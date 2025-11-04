@@ -1,0 +1,17 @@
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\bin\Debug\net8.0-windows\SimpleRobot.exe
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\bin\Debug\net8.0-windows\SimpleRobot.deps.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\bin\Debug\net8.0-windows\SimpleRobot.runtimeconfig.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\bin\Debug\net8.0-windows\SimpleRobot.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\bin\Debug\net8.0-windows\SimpleRobot.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.Form1.resources
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.csproj.GenerateResource.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.AssemblyInfoInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.AssemblyInfo.cs
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.csproj.CoreCompileInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.sourcelink.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\refint\SimpleRobot.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\SimpleRobot.genruntimeconfig.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-8-direct-a-simple-robot-shargisbkk\Lab8\SimpleRobot\obj\Debug\net8.0-windows\ref\SimpleRobot.dll
