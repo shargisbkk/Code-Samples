@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StudentScoresApp/1.0.0": {
+        "runtime": {
+          "StudentScoresApp.dll": {}
+        },
+        "resources": {
+          "aa/StudentScoresApp.resources.dll": {
+            "locale": "aa"
+          },
+          "ar-MA/StudentScoresApp.resources.dll": {
+            "locale": "ar-MA"
+          },
+          "ar-MR/StudentScoresApp.resources.dll": {
+            "locale": "ar-MR"
+          },
+          "en/StudentScoresApp.resources.dll": {
+            "locale": "en"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentScoresApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
