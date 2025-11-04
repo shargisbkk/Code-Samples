@@ -1,0 +1,17 @@
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmCalculator.resources
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.sourcelink.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\bin\Debug\net8.0-windows\CalculatorApp.exe
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\bin\Debug\net8.0-windows\CalculatorApp.deps.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\bin\Debug\net8.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\bin\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\bin\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\refint\CalculatorApp.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-7-create-a-basic-calculator-shargisbkk\Lab_7\WinFormsApp1\obj\Debug\net8.0-windows\ref\CalculatorApp.dll

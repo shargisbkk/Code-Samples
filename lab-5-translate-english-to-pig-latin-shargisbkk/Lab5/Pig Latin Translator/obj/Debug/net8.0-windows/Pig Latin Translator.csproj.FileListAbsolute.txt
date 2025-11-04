@@ -1,0 +1,17 @@
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\bin\Debug\net8.0-windows\Pig Latin Translator.exe
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\bin\Debug\net8.0-windows\Pig Latin Translator.deps.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\bin\Debug\net8.0-windows\Pig Latin Translator.runtimeconfig.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\bin\Debug\net8.0-windows\Pig Latin Translator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\bin\Debug\net8.0-windows\Pig Latin Translator.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig_Latin_Translator.Form1.resources
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.csproj.GenerateResource.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.AssemblyInfoInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.AssemblyInfo.cs
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.csproj.CoreCompileInputs.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.sourcelink.json
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\refint\Pig Latin Translator.dll
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.pdb
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\Pig Latin Translator.genruntimeconfig.cache
+C:\Users\sharg\OneDrive\Desktop\CITC 2311\lab-5-translate-english-to-pig-latin-shargisbkk\Lab5\Pig Latin Translator\obj\Debug\net8.0-windows\ref\Pig Latin Translator.dll
